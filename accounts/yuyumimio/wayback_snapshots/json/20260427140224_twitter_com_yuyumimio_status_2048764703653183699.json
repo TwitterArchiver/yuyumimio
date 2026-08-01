@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2048764703653183699",
+    "created_at": "2026-04-27T14:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048764703653183699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "愛的供養（二世）’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1pKkO…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1pKkOyqraBBKj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2048764705238573056/0zI09dbx?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2048764705238573056/0zI09dbx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 偶滴大了",
+          "unwound_url": "https://twitter.com/i/spaces/1pKkOyqraBBKj/peek",
+          "url": "https://t.co/ApFxb6kFTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048764703653183699",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ApFxb6kFTY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2048764703653183699",
+        "created_at": "2026-04-27T14:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048764703653183699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "愛的供養（二世）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKkO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKkOyqraBBKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2048764705238573056/0zI09dbx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048764705238573056/0zI09dbx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 偶滴大了",
+              "unwound_url": "https://twitter.com/i/spaces/1pKkOyqraBBKj/peek",
+              "url": "https://t.co/ApFxb6kFTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048764703653183699",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ApFxb6kFTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 139,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

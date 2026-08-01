@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2053417496313762020",
+    "created_at": "2026-05-10T10:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053418039958479139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042606909086404616",
+          "start": 0,
+          "username": "CacoooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053418039958479139",
+    "in_reply_to_user_id": "2042606909086404616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053417496313762020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CacoooOvO 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2053417496313762020",
+        "created_at": "2026-05-10T10:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053418039958479139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042606909086404616",
+              "start": 0,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053418039958479139",
+        "in_reply_to_user_id": "2042606909086404616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053417496313762020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CacoooOvO 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042606909086404616",
+        "conversation_id": "2053417496313762020",
+        "created_at": "2026-05-10T10:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053417496313762020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053417496313762020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友隔着袖子摸着我的胳膊上的凉席印  问我为什么我的胳膊是磨砂质感的。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 183,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 友跨\n六月正式回归 期间偶尔发帖证明我还活着…\n简中/繁中/En/日本語\n温良婊，微审回fo、无🚪欢迎来找我玩\n餐券🈹️/o三年/烟草品鉴\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Caco",
+        "pinned_tweet_id": "2047514784875303418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 721,
+          "like_count": 2339,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 377
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

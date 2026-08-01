@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2052273969269735835",
+    "created_at": "2026-05-07T13:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052377830345105441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1543072342447771650",
+          "start": 0,
+          "username": "qsmhls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052377830345105441",
+    "in_reply_to_user_id": "1543072342447771650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052273969269735835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsmhls 不要啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052273965717139456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHskTGRaMAAj6NT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2052273969269735835",
+        "created_at": "2026-05-07T13:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052377830345105441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1543072342447771650",
+              "start": 0,
+              "username": "qsmhls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052377830345105441",
+        "in_reply_to_user_id": "1543072342447771650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052273969269735835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsmhls 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052273965717139456"
+          ]
+        },
+        "author_id": "1543072342447771650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052273969269735835",
+        "created_at": "2026-05-07T06:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052273969269735835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xRPc4Ukfw",
+              "end": 43,
+              "expanded_url": "https://x.com/qsmhls/status/2052273969269735835/photo/1",
+              "media_key": "3_2052273965717139456",
+              "start": 20,
+              "url": "https://t.co/3xRPc4Ukfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052273969269735835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4257,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最仓促的自杀计划。 绝对是能救过来的。 https://t.co/3xRPc4Ukfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 182,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相情感障碍 边缘型人格障碍/自伤/od/摄影\n 沙卵妹控一个 我的老婆包括但不限于和泉纱雾，谷风天音，七草荠，五更琉璃，桐生瑞叶\n请务必关注防炸@sagirinoinu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "sagirinoinu"
+              }
+            ]
+          }
+        },
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "pinned_tweet_id": "2043009868068749420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042141530035777536/YyMyBwrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 162,
+          "like_count": 4267,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1873
+        },
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

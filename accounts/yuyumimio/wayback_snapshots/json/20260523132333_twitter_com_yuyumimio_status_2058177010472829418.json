@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058163705872031948",
+    "created_at": "2026-05-23T13:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058177010472829418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547097745797685249",
+          "start": 0,
+          "username": "sth_like_human"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058177010472829418",
+    "in_reply_to_user_id": "1547097745797685249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058173626571190493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sth_like_human 这个好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058173626571190493].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058173626571190493",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058173626571190493"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-23T13:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058177010472829418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547097745797685249",
+              "start": 0,
+              "username": "sth_like_human"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058177010472829418",
+        "in_reply_to_user_id": "1547097745797685249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058173626571190493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sth_like_human 这个好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 192,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 132
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010312921864343552/Si-AfgEN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 4355,
+          "like_count": 203600,
+          "listed_count": 7,
+          "media_count": 2165,
+          "tweet_count": 41401
+        },
+        "username": "sth_like_human",
+        "verified": true
+      }
+    ]
+  }
+}

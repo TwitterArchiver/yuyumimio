@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058163705872031948",
+    "created_at": "2026-05-24T16:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058584753897705671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802675905506246656",
+          "start": 0,
+          "username": "zzz1352602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058584753897705671",
+    "in_reply_to_user_id": "1802675905506246656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058553625388191918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1352602 可以的，但是医院不一定有缓释片，一般是胶囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-24T16:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058584753897705671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802675905506246656",
+              "start": 0,
+              "username": "zzz1352602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058584753897705671",
+        "in_reply_to_user_id": "1802675905506246656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058553625388191918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1352602 可以的，但是医院不一定有缓释片，一般是胶囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802675905506246656",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-24T14:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058553625388191918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058553625388191918",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058163705872031948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 这🏥能开到吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 193,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 165
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:13:53.000Z",
+        "description": "成为女大的第一件事是寻找非管制药物大吸特吸喵喵喵",
+        "id": "1802675905506246656",
+        "location": "Hong Kong",
+        "name": "止咳魚_DXM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881203145944301568/_7DPER0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 97,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 258
+        },
+        "username": "zzz1352602",
+        "verified": false
+      }
+    ]
+  }
+}

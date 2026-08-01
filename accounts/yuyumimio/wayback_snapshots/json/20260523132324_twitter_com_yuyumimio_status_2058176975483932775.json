@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058163705872031948",
+    "created_at": "2026-05-23T13:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058176975483932775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056234964644196352",
+          "start": 0,
+          "username": "www123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058176975483932775",
+    "in_reply_to_user_id": "2056234964644196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058173674033655965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@www123qwq 用分药器分开吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-23T13:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058176975483932775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056234964644196352",
+              "start": 0,
+              "username": "www123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058176975483932775",
+        "in_reply_to_user_id": "2056234964644196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058173674033655965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@www123qwq 用分药器分开吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056234964644196352",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-23T13:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058173674033655965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058173674033655965",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058163705872031948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 碾碎了装胶囊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 192,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 131
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T04:47:16.000Z",
+        "description": "🍥/友跨/od/药理学提问\nhttps://t.co/dhv75dH65I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 37,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 14,
+                "url": "https://t.co/dhv75dH65I"
+              }
+            ]
+          }
+        },
+        "id": "2056234964644196352",
+        "name": "伊奈（二世）互fo找回🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2056238962067591237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056235555827105792/4Xi1xQSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 34,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 80
+        },
+        "username": "www123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

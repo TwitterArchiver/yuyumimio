@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2057469173396357339",
+    "created_at": "2026-05-22T10:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057777620436263219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1231146427922837506",
+          "start": 0,
+          "username": "Doughausen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057777620436263219",
+    "in_reply_to_user_id": "1231146427922837506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057469173396357339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doughausen 额好重的♂味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2057469165662060544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2ZTiObQAAAXQe.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2057469173396357339",
+        "created_at": "2026-05-22T10:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057777620436263219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1231146427922837506",
+              "start": 0,
+              "username": "Doughausen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057777620436263219",
+        "in_reply_to_user_id": "1231146427922837506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057469173396357339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doughausen 额好重的♂味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057469165662060544"
+          ]
+        },
+        "author_id": "1231146427922837506",
+        "conversation_id": "2057469173396357339",
+        "created_at": "2026-05-21T14:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057469173396357339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3CswT9XDh",
+              "end": 54,
+              "expanded_url": "https://x.com/Doughausen/status/2057469173396357339/photo/1",
+              "media_key": "3_2057469165662060544",
+              "start": 31,
+              "url": "https://t.co/j3CswT9XDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057469173396357339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 500074,
+          "like_count": 1417,
+          "quote_count": 2,
+          "reply_count": 291,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "不是，打开推就看到一夜情，厕所很脏啊喂！！！补药啊！！！！！ https://t.co/j3CswT9XDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 183,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 110
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-22T09:19:32.000Z",
+        "description": "唯一小号@xiaohe134 有人冒充谨防被骗！VX会员分组美照666元支付宝口令要姓氏 👗衣服淘宝：Wondewr 🪀玩具店：不止是睡前（有想送拍的姊妹都可以滴滴俺）vx工作号：Wondewr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "xiaohe134"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.5xQfiXtbnQFq…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.5xQfiXtbnQFqJwN",
+                "start": 0,
+                "url": "https://t.co/msd8hEgpPQ"
+              }
+            ]
+          }
+        },
+        "id": "1231146427922837506",
+        "name": "小和的收藏夹",
+        "pinned_tweet_id": "2044045928408199335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1232867482765078530/9BA0D9c3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255587,
+          "following_count": 142,
+          "like_count": 20,
+          "listed_count": 692,
+          "media_count": 2547,
+          "tweet_count": 4240
+        },
+        "url": "https://t.co/msd8hEgpPQ",
+        "username": "Doughausen",
+        "verified": false
+      }
+    ]
+  }
+}

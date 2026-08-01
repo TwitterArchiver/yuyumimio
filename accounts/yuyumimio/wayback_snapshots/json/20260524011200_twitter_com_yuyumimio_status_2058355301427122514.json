@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058355301427122514",
+    "created_at": "2026-05-24T01:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058355301427122514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058355301427122514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烹饪缓释片效果描述🌲\n省流：不建议吃\n药效慢，要等一个半小时，吃了165×15mg＝2475mg。脑袋晕晕的，音乐鉴赏能力提升，解离感很明显，药效长，有轻微外幻，幻里看见很多蜘蛛腿很恐怖，最重要的是没有欣快感，一瓶的价格是141，很贵，还是吃胶囊吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058355301427122514",
+        "created_at": "2026-05-24T01:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058355301427122514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058355301427122514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烹饪缓释片效果描述🌲\n省流：不建议吃\n药效慢，要等一个半小时，吃了165×15mg＝2475mg。脑袋晕晕的，音乐鉴赏能力提升，解离感很明显，药效长，有轻微外幻，幻里看见很多蜘蛛腿很恐怖，最重要的是没有欣快感，一瓶的价格是141，很贵，还是吃胶囊吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 193,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 150
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

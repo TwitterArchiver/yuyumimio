@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2060056213388460274",
+    "created_at": "2026-05-29T09:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060286109507371470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1584961625655689216",
+          "start": 0,
+          "username": "williams_jackey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060286109507371470",
+    "in_reply_to_user_id": "1584961625655689216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060226671685558692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williams_jackey 世界再次展现出了残酷的面容😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2060056213388460274",
+        "created_at": "2026-05-29T09:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060286109507371470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1584961625655689216",
+              "start": 0,
+              "username": "williams_jackey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060286109507371470",
+        "in_reply_to_user_id": "1584961625655689216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060226671685558692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williams_jackey 世界再次展现出了残酷的面容😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584961625655689216",
+        "conversation_id": "2060056213388460274",
+        "created_at": "2026-05-29T05:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060226671685558692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060226671685558692",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060056213388460274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 我也要毕业了，可我快乐不起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 191,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 175
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T17:34:51.000Z",
+        "description": "热爱音乐｜动漫｜游戏｜电子设备\n希望交到来自全世界不同地方的朋友\n（＾ω＾）\n来自中国上海🇨🇳",
+        "id": "1584961625655689216",
+        "name": "Clove🐂🍺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058967613758402560/-AWnA6Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 76,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 117
+        },
+        "username": "williams_jackey",
+        "verified": false
+      }
+    ]
+  }
+}

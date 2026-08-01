@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2060748068711240143",
+    "created_at": "2026-05-30T15:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060748068711240143"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060748068711240143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不明白对我朋友的感情……想让她一直黏着我，听见她和男朋友打电话心里就很烦。凭什么这么烂的男人能和她在一起？恶心透了……把我计划在你的未来里啊？像我在意你一样在意我啊？对陌生人也要微笑吗？我一直有在把我们的一切牢牢记住啊？因为你的游离我没办法全心全意来爱你啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2060748068711240143",
+        "created_at": "2026-05-30T15:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060748068711240143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060748068711240143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不明白对我朋友的感情……想让她一直黏着我，听见她和男朋友打电话心里就很烦。凭什么这么烂的男人能和她在一起？恶心透了……把我计划在你的未来里啊？像我在意你一样在意我啊？对陌生人也要微笑吗？我一直有在把我们的一切牢牢记住啊？因为你的游离我没办法全心全意来爱你啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 191,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

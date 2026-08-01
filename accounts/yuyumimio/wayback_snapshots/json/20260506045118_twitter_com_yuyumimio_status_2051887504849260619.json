@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2051743410697179220",
+    "created_at": "2026-05-06T04:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051887504849260619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051887504849260619",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051743410697179220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 这是我看过最大的了🙌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2051743404036628480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlBwV_aoAAb7TY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2051743410697179220",
+        "created_at": "2026-05-06T04:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051887504849260619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051887504849260619",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051743410697179220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 这是我看过最大的了🙌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051743404036628480"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2051743410697179220",
+        "created_at": "2026-05-05T19:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051743410697179220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzJNlgUp45",
+              "end": 41,
+              "expanded_url": "https://x.com/CCA8798/status/2051743410697179220/photo/1",
+              "media_key": "3_2051743404036628480",
+              "start": 18,
+              "url": "https://t.co/AzJNlgUp45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051743410697179220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级大圈圈！\n都有谁，来和我贴贴😋 https://t.co/AzJNlgUp45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 185,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 165cm/41kg | 佛山 | 玻璃心 双相+重抑中焦不OD 好说话 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder\n可寄拍/扩列🤓\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(出柜成功版)🍥",
+        "pinned_tweet_id": "2051600396750401572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 955,
+          "like_count": 13705,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

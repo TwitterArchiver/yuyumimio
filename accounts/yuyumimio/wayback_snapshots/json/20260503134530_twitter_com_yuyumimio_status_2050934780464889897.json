@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2050582614965383648",
+    "created_at": "2026-05-03T13:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050934780464889897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048282050302722048",
+          "start": 0,
+          "username": "Celiaki3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050934780464889897",
+    "in_reply_to_user_id": "2048282050302722048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050582614965383648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celiaki3x 给我捐点见人死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2050582614965383648",
+        "created_at": "2026-05-03T13:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050934780464889897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048282050302722048",
+              "start": 0,
+              "username": "Celiaki3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050934780464889897",
+        "in_reply_to_user_id": "2048282050302722048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050582614965383648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celiaki3x 给我捐点见人死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048282050302722048",
+        "conversation_id": "2050582614965383648",
+        "created_at": "2026-05-02T14:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050582614965383648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050582614965383648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 144112,
+          "like_count": 1806,
+          "quote_count": 15,
+          "reply_count": 76,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "密码的严浩翔原生家庭到底在破碎个什么啊 姐弟俩花八百万 我操要我爹妈一个月给我二十万他们俩想怎么出轨怎么出轨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 187,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T06:05:26.000Z",
+        "description": "",
+        "id": "2048282050302722048",
+        "name": "Celia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048282469385019393/ltvXKAe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 68
+        },
+        "username": "Celiaki3x",
+        "verified": false
+      }
+    ]
+  }
+}

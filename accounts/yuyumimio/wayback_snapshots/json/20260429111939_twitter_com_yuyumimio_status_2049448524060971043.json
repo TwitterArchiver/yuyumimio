@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2049396730228253066",
+    "created_at": "2026-04-29T11:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049448524060971043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "SonjaTasha26957"
+        },
+        {
+          "end": 27,
+          "id": "2031715041196875776",
+          "start": 17,
+          "username": "YiJin_0v0"
+        },
+        {
+          "end": 39,
+          "id": "1896948222570147840",
+          "start": 28,
+          "username": "laki954456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049448524060971043",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049396730228253066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonjaTasha26957 @YiJin_0v0 @laki954456 晚安……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2049396730228253066",
+        "created_at": "2026-04-29T11:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049448524060971043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            },
+            {
+              "end": 27,
+              "id": "2031715041196875776",
+              "start": 17,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 39,
+              "id": "1896948222570147840",
+              "start": 28,
+              "username": "laki954456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049448524060971043",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049396730228253066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 @YiJin_0v0 @laki954456 晚安……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049396730228253066",
+        "created_at": "2026-04-29T07:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049396730228253066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1896948222570147840",
+              "start": 14,
+              "username": "laki954456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049396730228253066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5677,
+          "like_count": 99,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n      本人好友@laki954456于4月29日凌晨由于生前精神疾病的困扰以及对未来的迷茫 选择服药外加烧炭结束生命\n       他生前是一个十分温柔善良的人 我们对他的突然离世感到十分悲痛\n       愿往生极乐 无悲无苦 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 177,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 269,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 495
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "@rinii165892 有事优先联系此账号\n我是辣条，不要欺负我/精神病很严重，随时都会死掉/情商低智商低素质低文化低/传奇炸柜王/无证含糖/家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "垃圾袋",
+        "name": "霖/伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2049137147219968346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 440,
+          "like_count": 2577,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1612
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "纯发泄负面情绪来的 不用在意的 虽然感觉本来也不会有人在意 生理男心理男 不是可爱的小南娘 取向正常",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "pinned_tweet_id": "2043132258459287794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 123,
+          "like_count": 3720,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 3361
+        },
+        "username": "laki954456",
+        "verified": false
+      }
+    ]
+  }
+}

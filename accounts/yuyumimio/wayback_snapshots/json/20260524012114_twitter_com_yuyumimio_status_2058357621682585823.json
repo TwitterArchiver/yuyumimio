@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058163705872031948",
+    "created_at": "2026-05-24T01:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058357621682585823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812048156290646016",
+          "start": 0,
+          "username": "CanWuObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058357621682585823",
+    "in_reply_to_user_id": "1812048156290646016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058357448428445882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanWuObject 分药器启动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-24T01:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058357621682585823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812048156290646016",
+              "start": 0,
+              "username": "CanWuObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058357621682585823",
+        "in_reply_to_user_id": "1812048156290646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058357448428445882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanWuObject 分药器启动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812048156290646016",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-24T01:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058357448428445882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058357448428445882",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058163705872031948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 这也太了(´･_･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 193,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 157
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T08:55:41.000Z",
+        "description": "一个普通的男孩子，友善，你给我点赞我会多倍奉还（除非我在忙）我没什么文化…也没情商，不过我也可以陪你…只要你不嫌我烦 TWT\n互fo来～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/5xbdPAaF5Y"
+              }
+            ]
+          }
+        },
+        "id": "1812048156290646016",
+        "location": "回忆",
+        "name": "残物",
+        "pinned_tweet_id": "2055717294366748740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057687854747430912/krbGR9mO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 198,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/5xbdPAaF5Y",
+        "username": "CanWuObject",
+        "verified": false
+      }
+    ]
+  }
+}

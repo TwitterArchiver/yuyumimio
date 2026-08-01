@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2048421891279646852",
+    "created_at": "2026-04-26T15:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048421891279646852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "愛的供養（二世）’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1nGnR…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1nGnRYXekOoGO",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2048421892647006208/0ALNVUEH?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2048421892647006208/0ALNVUEH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 药效中",
+          "unwound_url": "https://twitter.com/i/spaces/1nGnRYXekOoGO/peek",
+          "url": "https://t.co/3Xck8fRo0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048421891279646852",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/3Xck8fRo0Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2048421891279646852",
+        "created_at": "2026-04-26T15:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048421891279646852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "愛的供養（二世）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nGnR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nGnRYXekOoGO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2048421892647006208/0ALNVUEH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048421892647006208/0ALNVUEH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 药效中",
+              "unwound_url": "https://twitter.com/i/spaces/1nGnRYXekOoGO/peek",
+              "url": "https://t.co/3Xck8fRo0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048421891279646852",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3Xck8fRo0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 50,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

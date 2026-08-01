@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048421196862193665"
+      ]
+    },
+    "author_id": "2048387997742329856",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048421209445159101",
+    "created_at": "2026-04-26T15:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048421209445159101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mv4m2lgdAH",
+          "end": 79,
+          "expanded_url": "https://x.com/yuyumimio/status/2048421209445159101/photo/1",
+          "media_key": "3_2048421196862193665",
+          "start": 56,
+          "url": "https://t.co/mv4m2lgdAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048421209445159101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一颗🌲｜troublemaker\n目前面临不得不驾驶eva的困境\n虚无主义｜明天会更好吗\n请大家帮助我，谢谢! https://t.co/mv4m2lgdAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2048421196862193665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG10Ob1aAAEwzeO.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048421196862193665"
+          ]
+        },
+        "author_id": "2048387997742329856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048421209445159101",
+        "created_at": "2026-04-26T15:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048421209445159101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mv4m2lgdAH",
+              "end": 79,
+              "expanded_url": "https://x.com/yuyumimio/status/2048421209445159101/photo/1",
+              "media_key": "3_2048421196862193665",
+              "start": 56,
+              "url": "https://t.co/mv4m2lgdAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048421209445159101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一颗🌲｜troublemaker\n目前面临不得不驾驶eva的困境\n虚无主义｜明天会更好吗\n请大家帮助我，谢谢! https://t.co/mv4m2lgdAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 49,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

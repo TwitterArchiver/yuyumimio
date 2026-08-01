@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058224820182266293",
+    "created_at": "2026-05-24T06:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058430144734470518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "loveyoluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058430144734470518",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058224820182266293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveyoluv 确实，含有右美沙芬的抗抑郁药好像已经备案了，不知道什么时候能上市"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058224820182266293",
+        "created_at": "2026-05-24T06:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058430144734470518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "loveyoluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058430144734470518",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058224820182266293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveyoluv 确实，含有右美沙芬的抗抑郁药好像已经备案了，不知道什么时候能上市"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2058224820182266293",
+        "created_at": "2026-05-23T16:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058224820182266293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058224820182266293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4363,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "致幻剂确实可以抗抑郁啊，我真的推荐抑郁走不出来的人吃右美沙芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 193,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 160
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜透明人｜开心发推 生气发推 伤心发推 无聊发推 情绪化发推 欢迎大家观察我•ᴗ• 这个世界很美好:P 欢迎问我任何问题 我都会回复 找我聊天也是可以的",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2050223323423105450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050553393027203072/lldNMe4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 560,
+          "like_count": 3353,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 737
+        },
+        "username": "loveyoluv",
+        "verified": false
+      }
+    ]
+  }
+}

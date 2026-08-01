@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058247375219523949",
+    "created_at": "2026-05-24T06:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058430596301652360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028432059002150912",
+          "start": 0,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058430596301652360",
+    "in_reply_to_user_id": "2028432059002150912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058247375219523949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NinJaCatRising 打着消灭害虫的幌子满足，自己变异的施虐欲，恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058247375219523949",
+        "created_at": "2026-05-24T06:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058430596301652360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028432059002150912",
+              "start": 0,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058430596301652360",
+        "in_reply_to_user_id": "2028432059002150912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058247375219523949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NinJaCatRising 打着消灭害虫的幌子满足，自己变异的施虐欲，恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2058247375219523949",
+        "created_at": "2026-05-23T18:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058247375219523949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058247375219523949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11977,
+          "like_count": 242,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "某音和某站真的。已经注销了太恶心了\n虽然说福寿螺红火蚁这些是害虫 但故意捅烂母福寿螺下体抽真空这种 到底何意味 感觉跟恨女虐猫虐狗的是一批人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 193,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 161
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系",
+        "id": "2028432059002150912",
+        "name": "gangjeup",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056774583965843456/OqOW1dSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 14,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 372
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

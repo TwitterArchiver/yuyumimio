@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2058163705872031948",
+    "created_at": "2026-05-24T06:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058429246608191546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1942869323498102784",
+          "start": 0,
+          "username": "oqwqo585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058429246608191546",
+    "in_reply_to_user_id": "1942869323498102784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058361515116216350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oqwqo585 （给你😋）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-24T06:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058429246608191546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1942869323498102784",
+              "start": 0,
+              "username": "oqwqo585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058429246608191546",
+        "in_reply_to_user_id": "1942869323498102784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058361515116216350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oqwqo585 （给你😋）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942869323498102784",
+        "conversation_id": "2058163705872031948",
+        "created_at": "2026-05-24T01:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058361515116216350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058361515116216350",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058163705872031948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio os好想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 193,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 159
+        },
+        "username": "yuyumimio",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T08:52:09.000Z",
+        "description": "",
+        "id": "1942869323498102784",
+        "name": "小慕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942869523981279232/ol3PGNKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "oqwqo585",
+        "verified": false
+      }
+    ]
+  }
+}
