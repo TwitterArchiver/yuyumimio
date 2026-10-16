@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2108978207118725602",
+    "created_at": "2026-10-10T17:49:22.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T18:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108978207118725602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018959137070317568",
+          "start": 3,
+          "username": "02bd025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108978207118725602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108516645912424772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @02bd025: 抗うつ剤じゃなくて幸福薬を処方して欲しいんだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2108978207118725602",
+        "created_at": "2026-10-10T17:49:22.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T18:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108978207118725602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018959137070317568",
+              "start": 3,
+              "username": "02bd025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108978207118725602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108516645912424772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @02bd025: 抗うつ剤じゃなくて幸福薬を処方して欲しいんだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018959137070317568",
+        "conversation_id": "2108516645912424772",
+        "created_at": "2026-10-09T11:15:17.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108516645912424772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108516645912424772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7482,
+          "like_count": 357,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "抗うつ剤じゃなくて幸福薬を処方して欲しいんだよ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2108978207118725602",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 212,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T08:05:51.000Z",
+        "description": "人生は一度きり。だから二度とやらない。\n\nDM・マシュマロを募集中！",
+        "id": "2018959137070317568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108864618924036459",
+        "name": "瀬名",
+        "pinned_tweet_id": "2070061019838427410",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041993542202224641/0yBxCWHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 1377,
+          "like_count": 7772,
+          "listed_count": 31,
+          "media_count": 122,
+          "tweet_count": 5018
+        },
+        "url": "",
+        "username": "02bd025",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

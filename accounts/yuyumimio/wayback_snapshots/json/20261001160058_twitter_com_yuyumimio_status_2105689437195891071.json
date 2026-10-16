@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2105689437195891071",
+    "created_at": "2026-10-01T16:00:58.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105689437195891071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uwu8964/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/uwu8964/status/2105689148858548344",
+          "start": 5,
+          "url": "https://t.co/ki8lPvpXt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105689437195891071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105689148858548344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好饿🤤🤤 https://t.co/ki8lPvpXt1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2105689437195891071",
+        "created_at": "2026-10-01T16:00:58.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105689437195891071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uwu8964/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/uwu8964/status/2105689148858548344",
+              "start": 5,
+              "url": "https://t.co/ki8lPvpXt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105689437195891071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105689148858548344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好饿🤤🤤 https://t.co/ki8lPvpXt1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103590351080771584",
+        "conversation_id": "2105689148858548344",
+        "created_at": "2026-10-01T15:59:49.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105689148858548344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105689148858548344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林到底餓死了多少人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2105689437195891071",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 209,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "I don’t fucking care",
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105689148858548344",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 97,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

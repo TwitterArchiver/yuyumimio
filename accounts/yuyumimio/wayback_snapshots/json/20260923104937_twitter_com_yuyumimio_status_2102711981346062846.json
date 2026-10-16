@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2102510425393029120"
+      ],
+      "media_source_tweet_id": [
+        "2102510448033870022"
+      ]
+    },
+    "author_id": "2048387997742329856",
+    "conversation_id": "2102711981346062846",
+    "created_at": "2026-09-23T10:49:37.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102711981346062846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1588432153880064001",
+          "start": 3,
+          "username": "tmszhjh88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gj4Httxj8f",
+          "end": 80,
+          "expanded_url": "https://x.com/tmszhjh88/status/2102510448033870022/video/1",
+          "media_key": "7_2102510425393029120",
+          "start": 57,
+          "url": "https://t.co/Gj4Httxj8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102711981346062846",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_2102510425393029120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102510448033870022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tmszhjh88: He is practicing the flute very carefully https://t.co/Gj4Httxj8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11099,
+        "height": 1280,
+        "media_key": "7_2102510425393029120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2102510425393029120/pu/img/pTycgI9ST1atywcM.jpg",
+        "public_metrics": {
+          "view_count": 162394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2102510425393029120/pu/vid/avc1/320x568/jYBh3bxxmp3kpCcK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2102510425393029120/pu/vid/avc1/480x852/dQVwxoM9mgmJ5RZN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2102510425393029120/pu/vid/avc1/720x1280/iWqCcVwQOlYd8P8g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2102510425393029120/pu/pl/HMtZ5DO17ZZ19M6E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2102510425393029120"
+          ],
+          "media_source_tweet_id": [
+            "2102510448033870022"
+          ]
+        },
+        "author_id": "2048387997742329856",
+        "conversation_id": "2102711981346062846",
+        "created_at": "2026-09-23T10:49:37.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102711981346062846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1588432153880064001",
+              "start": 3,
+              "username": "tmszhjh88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gj4Httxj8f",
+              "end": 80,
+              "expanded_url": "https://x.com/tmszhjh88/status/2102510448033870022/video/1",
+              "media_key": "7_2102510425393029120",
+              "start": 57,
+              "url": "https://t.co/Gj4Httxj8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102711981346062846",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2102510425393029120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102510448033870022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tmszhjh88: He is practicing the flute very carefully https://t.co/Gj4Httxj8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2102510425393029120"
+          ]
+        },
+        "author_id": "1588432153880064001",
+        "conversation_id": "2102510448033870022",
+        "created_at": "2026-09-22T21:28:48.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T22:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102510448033870022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gj4Httxj8f",
+              "end": 65,
+              "expanded_url": "https://x.com/tmszhjh88/status/2102510448033870022/video/1",
+              "media_key": "7_2102510425393029120",
+              "start": 42,
+              "url": "https://t.co/Gj4Httxj8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102510448033870022",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2102510425393029120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1340,
+          "impression_count": 488235,
+          "like_count": 33618,
+          "quote_count": 139,
+          "reply_count": 75,
+          "retweet_count": 4565
+        },
+        "reply_settings": "everyone",
+        "text": "He is practicing the flute very carefully https://t.co/Gj4Httxj8f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2102711981346062846",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 182,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-04T07:31:16.000Z",
+        "description": "One cat, two cats, three cats, meow meow meow",
+        "id": "1588432153880064001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102690795149234279",
+        "name": "Kathleen",
+        "pinned_tweet_id": "2035720289762660680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588432153880064001/1667629188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968663074258468864/l-wxj68u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36275,
+          "following_count": 7314,
+          "like_count": 42708,
+          "listed_count": 173,
+          "media_count": 23326,
+          "tweet_count": 26038
+        },
+        "url": "",
+        "username": "tmszhjh88",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

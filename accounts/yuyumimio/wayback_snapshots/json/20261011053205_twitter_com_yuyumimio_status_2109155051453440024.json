@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109155028300914688",
+        "3_2109155037360594944",
+        "3_2109155044805554176"
+      ]
+    },
+    "author_id": "2048387997742329856",
+    "conversation_id": "2109155051453440024",
+    "created_at": "2026-10-11T05:32:05.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T06:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109155051453440024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEXBUVQhr6",
+          "end": 31,
+          "expanded_url": "https://x.com/yuyumimio/status/2109155051453440024/photo/1",
+          "media_key": "3_2109155028300914688",
+          "start": 8,
+          "url": "https://t.co/rEXBUVQhr6"
+        },
+        {
+          "display_url": "pic.x.com/rEXBUVQhr6",
+          "end": 31,
+          "expanded_url": "https://x.com/yuyumimio/status/2109155051453440024/photo/1",
+          "media_key": "3_2109155037360594944",
+          "start": 8,
+          "url": "https://t.co/rEXBUVQhr6"
+        },
+        {
+          "display_url": "pic.x.com/rEXBUVQhr6",
+          "end": 31,
+          "expanded_url": "https://x.com/yuyumimio/status/2109155051453440024/photo/1",
+          "media_key": "3_2109155044805554176",
+          "start": 8,
+          "url": "https://t.co/rEXBUVQhr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109155051453440024",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109155028300914688"
+      },
+      {
+        "media_key": "3_2109155037360594944"
+      },
+      {
+        "media_key": "3_2109155044805554176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "愛是唯一的火光 https://t.co/rEXBUVQhr6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2109155028300914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUU5Us4a4AAKQPx.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1698,
+        "media_key": "3_2109155037360594944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUU5VOoaoAAIrc_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1256,
+        "media_key": "3_2109155044805554176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUU5VqXbsAAQ6zz.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109155028300914688",
+            "3_2109155037360594944",
+            "3_2109155044805554176"
+          ]
+        },
+        "author_id": "2048387997742329856",
+        "conversation_id": "2109155051453440024",
+        "created_at": "2026-10-11T05:32:05.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109155051453440024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEXBUVQhr6",
+              "end": 31,
+              "expanded_url": "https://x.com/yuyumimio/status/2109155051453440024/photo/1",
+              "media_key": "3_2109155028300914688",
+              "start": 8,
+              "url": "https://t.co/rEXBUVQhr6"
+            },
+            {
+              "display_url": "pic.x.com/rEXBUVQhr6",
+              "end": 31,
+              "expanded_url": "https://x.com/yuyumimio/status/2109155051453440024/photo/1",
+              "media_key": "3_2109155037360594944",
+              "start": 8,
+              "url": "https://t.co/rEXBUVQhr6"
+            },
+            {
+              "display_url": "pic.x.com/rEXBUVQhr6",
+              "end": 31,
+              "expanded_url": "https://x.com/yuyumimio/status/2109155051453440024/photo/1",
+              "media_key": "3_2109155044805554176",
+              "start": 8,
+              "url": "https://t.co/rEXBUVQhr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109155051453440024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109155028300914688"
+          },
+          {
+            "media_key": "3_2109155037360594944"
+          },
+          {
+            "media_key": "3_2109155044805554176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愛是唯一的火光 https://t.co/rEXBUVQhr6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義｜评论被限制会转帖回复",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2109155051453440024",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 186,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

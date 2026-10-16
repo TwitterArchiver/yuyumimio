@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104243263557246978",
+        "3_2104243263527899136"
+      ],
+      "media_source_tweet_id": [
+        "2104243272260719055",
+        "2104243272260719055"
+      ]
+    },
+    "author_id": "2048387997742329856",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2104282594745684395",
+    "created_at": "2026-09-27T18:50:40.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104282594745684395"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 72,
+          "tag": "slittwt"
+        },
+        {
+          "end": 88,
+          "start": 81,
+          "tag": "shitwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825209250613760001",
+          "start": 3,
+          "username": "valvalemmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/arcGBZgr1c",
+          "end": 112,
+          "expanded_url": "https://x.com/valvalemmm/status/2104243272260719055/photo/1",
+          "media_key": "3_2104243263557246978",
+          "start": 89,
+          "url": "https://t.co/arcGBZgr1c"
+        },
+        {
+          "display_url": "pic.x.com/arcGBZgr1c",
+          "end": 112,
+          "expanded_url": "https://x.com/valvalemmm/status/2104243272260719055/photo/1",
+          "media_key": "3_2104243263527899136",
+          "start": 89,
+          "url": "https://t.co/arcGBZgr1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104282594745684395",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2104243263557246978"
+      },
+      {
+        "media_key": "3_2104243263527899136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104243272260719055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @valvalemmm: FAKE MAKEUP \nFAKE BLOOD\nfake all makeup SFX \nnot real. \n#slittwt #shitwt https://t.co/arcGBZgr1c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104243263557246978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPGGXVWoAIhYVi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104243263527899136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPGGXOW0AABW83.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104243263557246978",
+            "3_2104243263527899136"
+          ],
+          "media_source_tweet_id": [
+            "2104243272260719055",
+            "2104243272260719055"
+          ]
+        },
+        "author_id": "2048387997742329856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104282594745684395",
+        "created_at": "2026-09-27T18:50:40.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104282594745684395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "slittwt"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "shitwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825209250613760001",
+              "start": 3,
+              "username": "valvalemmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/arcGBZgr1c",
+              "end": 112,
+              "expanded_url": "https://x.com/valvalemmm/status/2104243272260719055/photo/1",
+              "media_key": "3_2104243263557246978",
+              "start": 89,
+              "url": "https://t.co/arcGBZgr1c"
+            },
+            {
+              "display_url": "pic.x.com/arcGBZgr1c",
+              "end": 112,
+              "expanded_url": "https://x.com/valvalemmm/status/2104243272260719055/photo/1",
+              "media_key": "3_2104243263527899136",
+              "start": 89,
+              "url": "https://t.co/arcGBZgr1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104282594745684395",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104243263557246978"
+          },
+          {
+            "media_key": "3_2104243263527899136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104243272260719055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @valvalemmm: FAKE MAKEUP \nFAKE BLOOD\nfake all makeup SFX \nnot real. \n#slittwt #shitwt https://t.co/arcGBZgr1c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104243263557246978",
+            "3_2104243263527899136"
+          ]
+        },
+        "author_id": "1825209250613760001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104243272260719055",
+        "created_at": "2026-09-27T16:14:25.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104243272260719055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "slittwt"
+            },
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "shitwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/arcGBZgr1c",
+              "end": 96,
+              "expanded_url": "https://x.com/valvalemmm/status/2104243272260719055/photo/1",
+              "media_key": "3_2104243263557246978",
+              "start": 73,
+              "url": "https://t.co/arcGBZgr1c"
+            },
+            {
+              "display_url": "pic.x.com/arcGBZgr1c",
+              "end": 96,
+              "expanded_url": "https://x.com/valvalemmm/status/2104243272260719055/photo/1",
+              "media_key": "3_2104243263527899136",
+              "start": 73,
+              "url": "https://t.co/arcGBZgr1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104243272260719055",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104243263557246978"
+          },
+          {
+            "media_key": "3_2104243263527899136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1077,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "FAKE MAKEUP \nFAKE BLOOD\nfake all makeup SFX \nnot real. \n#slittwt #shitwt https://t.co/arcGBZgr1c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2104282594745684395",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 198,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T16:33:08.000Z",
+        "description": "",
+        "id": "1825209250613760001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104266589465964598",
+        "name": "valm 💕",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825209250613760001/1784582315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081934878937862145/fxba62mP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 12,
+          "like_count": 3040,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "valvalemmm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

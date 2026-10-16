@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2106655635982926031",
+    "created_at": "2026-10-04T08:00:18.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T09:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106655635982926031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rurika2006/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/rurika2006/status/2106565753231339642",
+          "start": 39,
+          "url": "https://t.co/wGMWj6wLP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106655635982926031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106565753231339642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老师平时吃多少mg呀，我少0.5mg都会犯焦虑（因为没办法评论只能转帖啦😢） https://t.co/wGMWj6wLP4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2106655635982926031",
+        "created_at": "2026-10-04T08:00:18.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106655635982926031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rurika2006/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/rurika2006/status/2106565753231339642",
+              "start": 39,
+              "url": "https://t.co/wGMWj6wLP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106655635982926031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106565753231339642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老师平时吃多少mg呀，我少0.5mg都会犯焦虑（因为没办法评论只能转帖啦😢） https://t.co/wGMWj6wLP4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047454675230769152",
+        "conversation_id": "2106397158073118917",
+        "created_at": "2026-10-04T02:03:08.000Z",
+        "display_text_range": [
+          11,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106565753231339642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106565753231339642",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106397158073118917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 啊啊这样吗..摸摸\n我吃了两个月了还是抑郁，情绪不稳定，而且还是感觉不到快乐\n打算和医生说换药了qwq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2106655635982926031",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 212,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T23:16:59.000Z",
+        "description": "流されながら 揺れながら",
+        "id": "2047454675230769152",
+        "is_identity_verified": false,
+        "location": "utc-5",
+        "most_recent_tweet_id": "2106628861345603999",
+        "name": "琉璃花",
+        "pinned_tweet_id": "2106050157662056627",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101841146292944896/1vpXJXT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 145,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "rurika2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

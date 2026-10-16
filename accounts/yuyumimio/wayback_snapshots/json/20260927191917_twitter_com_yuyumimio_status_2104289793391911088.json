@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2104289793391911088",
+    "created_at": "2026-09-27T19:19:17.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104289793391911088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuololxhssc/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kuololxhssc/status/2104165962299724241",
+          "start": 4,
+          "url": "https://t.co/uYKn1h8cyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104289793391911088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104165962299724241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿帕次 https://t.co/uYKn1h8cyX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2104289793391911088",
+        "created_at": "2026-09-27T19:19:17.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104289793391911088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuololxhssc/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kuololxhssc/status/2104165962299724241",
+              "start": 4,
+              "url": "https://t.co/uYKn1h8cyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104289793391911088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104165962299724241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿帕次 https://t.co/uYKn1h8cyX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862884625833660416",
+        "conversation_id": "2104165962299724241",
+        "created_at": "2026-09-27T11:07:13.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104165962299724241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104165962299724241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5909,
+          "like_count": 141,
+          "quote_count": 6,
+          "reply_count": 83,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "其实我不是什么回避型，焦虑型，安全型引导型，恐惧型依恋\n我是随时准备跑路型依恋\n安全的时候可以正常投入感情，维持关系，进行互动\n但只要感受到一点敷衍和冷漠就会收回真心，试探观察几天，然后否定这段关系找机会阿帕次阿帕次的跑路了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2104289793391911088",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 198,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "有🚪｜不约不卖不线下，聊骚请滚么么\n匿名问答https://t.co/ztt3bqgR8B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jingzhe2",
+                "end": 45,
+                "expanded_url": "https://ngl.link/jingzhe2",
+                "start": 22,
+                "url": "https://t.co/ztt3bqgR8B"
+              }
+            ]
+          }
+        },
+        "id": "1862884625833660416",
+        "is_identity_verified": false,
+        "location": "我喜欢你˃ ᵕ ˂",
+        "most_recent_tweet_id": "2104272103617052816",
+        "name": "薄荷小薯",
+        "pinned_tweet_id": "2100626495471517904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862884625833660416/1785932540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084978091148115968/R1F3Pbpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 42,
+          "like_count": 768,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "kuololxhssc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

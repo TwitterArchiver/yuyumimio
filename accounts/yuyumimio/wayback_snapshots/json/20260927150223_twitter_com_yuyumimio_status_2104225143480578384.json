@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2104225143480578384",
+    "created_at": "2026-09-27T15:02:23.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104225143480578384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OuOshize666/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/OuOshize666/status/2104130784907202877",
+          "start": 16,
+          "url": "https://t.co/GXRfLFthTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104225143480578384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104130784907202877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "75mg的一次吃多少比较舒适🤤 https://t.co/GXRfLFthTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104130775428009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNfysZakAA4iHj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2104225143480578384",
+        "created_at": "2026-09-27T15:02:23.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104225143480578384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OuOshize666/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/OuOshize666/status/2104130784907202877",
+              "start": 16,
+              "url": "https://t.co/GXRfLFthTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104225143480578384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104130784907202877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "75mg的一次吃多少比较舒适🤤 https://t.co/GXRfLFthTy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104130775428009984"
+          ]
+        },
+        "author_id": "2083608195587874816",
+        "conversation_id": "2104130784907202877",
+        "created_at": "2026-09-27T08:47:26.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104130784907202877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvIcs1afMD",
+              "end": 23,
+              "expanded_url": "https://x.com/OuOshize666/status/2104130784907202877/photo/1",
+              "media_key": "3_2104130775428009984",
+              "start": 0,
+              "url": "https://t.co/MvIcs1afMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104130784907202877",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104130775428009984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MvIcs1afMD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2104225143480578384",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 197,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "08 大一 双相情感障碍/重度焦虑/adhd\n神聖かまってちゃん最高！\n查成分互关\n匿名问答@OuOshizego",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "OuOshizego"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shize666",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shize666",
+                "start": 0,
+                "url": "https://t.co/VEU4O9i2SD"
+              }
+            ]
+          }
+        },
+        "id": "2083608195587874816",
+        "is_identity_verified": false,
+        "location": "都灵街",
+        "most_recent_tweet_id": "2104220483642401268",
+        "name": "矢澤源義二代目",
+        "pinned_tweet_id": "2083997953522536900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083608195587874816/1785609860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 155,
+          "like_count": 3667,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/VEU4O9i2SD",
+        "username": "OuOshize666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

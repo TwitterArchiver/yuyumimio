@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2109146611087724546",
+    "created_at": "2026-10-11T04:58:32.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T05:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109146611087724546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/H2O2nb/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/H2O2nb/status/2109143631013843308",
+          "start": 5,
+          "url": "https://t.co/MjY4nFaf6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109146611087724546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109143631013843308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你喔 https://t.co/MjY4nFaf6f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2109146611087724546",
+        "created_at": "2026-10-11T04:58:32.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T05:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109146611087724546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H2O2nb/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/H2O2nb/status/2109143631013843308",
+              "start": 5,
+              "url": "https://t.co/MjY4nFaf6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109146611087724546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109143631013843308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你喔 https://t.co/MjY4nFaf6f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006395055934963713",
+        "conversation_id": "2108977487804047603",
+        "created_at": "2026-10-11T04:46:42.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T05:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109143631013843308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109143631013843308",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108977487804047603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 要好好吃飯呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2109146611087724546",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 213,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-31T16:03:37.000Z",
+        "description": "不知道啊",
+        "id": "2006395055934963713",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109143631013843308",
+        "name": "雙氧水",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006395055934963713/1783443652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006396092607553536/lgCrbptx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "H2O2nb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

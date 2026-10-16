@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048387997742329856",
+    "conversation_id": "2104231775488864424",
+    "created_at": "2026-09-27T15:28:44.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104231775488864424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fislonely_/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Fislonely_/status/2104227530853245195",
+          "start": 15,
+          "url": "https://t.co/0X1MYzjHab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104231775488864424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104227530853245195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃了4t和18t ym吐惨了 https://t.co/0X1MYzjHab"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2104231775488864424",
+        "created_at": "2026-09-27T15:28:44.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104231775488864424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fislonely_/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Fislonely_/status/2104227530853245195",
+              "start": 15,
+              "url": "https://t.co/0X1MYzjHab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104231775488864424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104227530853245195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃了4t和18t ym吐惨了 https://t.co/0X1MYzjHab"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620347661160435712",
+        "conversation_id": "2104225143480578384",
+        "created_at": "2026-09-27T15:11:52.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104227530853245195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104227530853245195",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104225143480578384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio 4t左右吧 600mg基本到顶了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2104231775488864424",
+        "name": "愛的供養（二世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048387997742329856/1777208855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 197,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "yuyumimio",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T09:06:11.000Z",
+        "description": "",
+        "id": "1620347661160435712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104227530853245195",
+        "name": "Fislonely",
+        "pinned_tweet_id": "2019305353876500903",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620347661160435712/1725375680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048789347012608/OaP7ONSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 349,
+          "like_count": 7944,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2831
+        },
+        "url": "",
+        "username": "Fislonely_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
